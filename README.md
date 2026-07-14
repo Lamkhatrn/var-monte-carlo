@@ -1,4 +1,4 @@
-# Value at Risk — Monte Carlo Simulation
+# Value at Risk (Monte Carlo Simulation)
 
 Estimation de la VaR et CVaR à 95% sur un portefeuille S&P 500 / CAC 40
 via simulation de Monte Carlo en Python.
