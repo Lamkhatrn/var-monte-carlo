@@ -27,7 +27,7 @@ via simulation de Monte Carlo en Python.
 
 ## Stack technique
 
-Python · NumPy · Pandas · Matplotlib · yfinance
+Python, NumPy, Pandas, Matplotlib, yfinance
 
 ## Lancer le projet
 ```bash
