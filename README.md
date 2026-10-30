@@ -37,6 +37,6 @@ python main.py
 
 ## Limites du modèle
 
-- Hypothèse de normalité des rendements (fat tails ignorés)
+- Hypothèse de normalité des rendements
 - Corrélation supposée stable dans le temps
 - Basé sur données historiques (pas prédictif)
